@@ -33,11 +33,10 @@
 - Feature selection (Select From Model)
 
 **Tools used:**
-- Logistic Regression (sklearn)
 - Random Forest(sklearn)
 - XGBoost(sklearn)
-- GaussianNB(sklearn)
 - Stacking Classifier (mlxtend)
 - Sampling methods: SMOTE (sklearn)
+- LightGBM
 
 
