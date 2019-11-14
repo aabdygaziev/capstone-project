@@ -1,7 +1,7 @@
 # Transaction Fraud Detection: Kaggle Competition
 
 ## Dataset source:
-* Dateset provided by Vesta Corporation
+* Dateset provided by Vesta Corporation (https://www.kaggle.com/c/ieee-fraud-detection )
 * Train_transaction, test_transaction, train_identity and test_identity (all 'csv' files)
 
 ## GOAL: **Identify/Predict Fraudulent Transactions**
@@ -33,11 +33,10 @@
 - Feature selection (Select From Model)
 
 **Tools used:**
-- Logistic Regression (sklearn)
 - Random Forest(sklearn)
 - XGBoost(sklearn)
-- GaussianNB(sklearn)
 - Stacking Classifier (mlxtend)
 - Sampling methods: SMOTE (sklearn)
+- LightGBM
 
 
