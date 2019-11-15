@@ -5,6 +5,7 @@
 * Train_transaction, test_transaction, train_identity and test_identity (all 'csv' files)
 
 ## GOAL: **Identify/Predict Fraudulent Transactions**
+**Link to the blog**: https://medium.com/@aabdygaziev/fraudulent-transaction-prediction-6888c4ca8031
 
 ### Relevance
 <img width="944" alt="Screen Shot 2019-11-11 at 10 37 42 AM" src="https://user-images.githubusercontent.com/45387763/68604364-eb131a00-046f-11ea-8708-50db0dd62e46.png">
